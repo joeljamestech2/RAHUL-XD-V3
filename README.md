@@ -31,13 +31,11 @@
 <a href="https://github.com/rahulmaster143/RAHUL-XD-V3/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="90" width="240" /></a>
   <div>
 <div>
+01 . GET YOUR SESSION ID USING PAIRCODE ✅
 
-02 . GET YOUR SESSION ID USING PAIRCODE ✅
-
-<a href="https://rahul-xd-v3-pair-code.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-orangered?style=for-the-badge&logo=render"></a>
+<a href="https://foolish-sybil-rahulhiran51-09b19b79.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-orangered?style=for-the-badge&logo=render"></a>
 <p/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 03 . NOW ®️ RAHUL XD V3 BOT DEPLOY PLATFORMS 🚩🇮🇳
 
